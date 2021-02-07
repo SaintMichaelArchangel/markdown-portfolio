@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+A legjobb tulajdonságom, hogy tudok **figyelni** az emberekre úgy mint kevesen. **Értem** amit nem mondanak ki, pedig ki akarnak és ezért megbecsülnek. **Őszinte** vagyok a kínosság határáig és ezért ha kényelmetlen néha is a jelenlétem, remélem méltónak találnak a *társaságra* és *szeretetre* 
