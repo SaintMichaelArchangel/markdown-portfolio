@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![picture of a monkey](http://moelane.com/wp-content/uploads/2011/07/monkey3.jpg)
