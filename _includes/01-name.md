@@ -1,1 +1,2 @@
-#Dezséri Bertalan
+# GitHub Gyakorló Portfólió
+### Tulajdonos: Dezséri Bertalan
